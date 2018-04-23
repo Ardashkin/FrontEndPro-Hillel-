@@ -35,37 +35,35 @@
     //2.2 Скрипт запрашивающий значение в одной валюте и выводящий результат в другой
     var userAnswerCurrency = prompt('Введите валюту USD UAH EUR',);
 
-    switch (userAnswerCurrency) {
-        case 'USD':
-            {
-            var userAnswerNumber = prompt('Введите сумму',);
-            alert('Получаем ' +
-                '\n USD =' + userAnswerNumber +
-                '\n UAH =' + (userAnswerNumber * 26.0) +
-                '\n EUR =' + (userAnswerNumber * 0.811));
+    if (userAnswerCurrency == "USD" || userAnswerCurrency == "UAH" || userAnswerCurrency == "EUR")
+    {
+        var userAnswerNumber = prompt('Введите сумму',);
+        switch (userAnswerCurrency) {
+            case 'USD': {
+                alert('Получаем ' +
+                    '\n USD =' + userAnswerNumber +
+                    '\n UAH =' + (userAnswerNumber * 26.0) +
+                    '\n EUR =' + (userAnswerNumber * 0.811));
             }
-            break
-        case 'UAH':
-            {
-            var userAnswerNumber = prompt('Введите сумму',);
-            alert('Получаем ' +
-                '\n USD =' + (userAnswerNumber / 26.1) +
-                '\n UAH =' + userAnswerNumber +
-                '\n EUR =' + (userAnswerNumber / 32.1));
+                break;
+            case 'UAH': {
+                alert('Получаем ' +
+                    '\n USD =' + (userAnswerNumber / 26.1) +
+                    '\n UAH =' + userAnswerNumber +
+                    '\n EUR =' + (userAnswerNumber / 32.1));
             }
-            break
-        case 'EUR':
-            {
-            var userAnswerNumber = prompt('Введите сумму',);
-            alert('Получаем ' +
-                '\n USD =' + (userAnswerNumber * 1.238) +
-                '\n UAH =' + (userAnswerNumber * 31.7) +
-                '\n EUR =' + userAnswerNumber);
+                break;
+            case 'EUR': {
+                alert('Получаем ' +
+                    '\n USD =' + (userAnswerNumber * 1.238) +
+                    '\n UAH =' + (userAnswerNumber * 31.7) +
+                    '\n EUR =' + userAnswerNumber);
             }
-         break
-        default: alert("Вы не правильно ввели валюту")
-
-    };
+                break;
+        }
+    } else {
+        alert("Вы не правильно ввели валюту");
+    }
 */
 /*
     //2.3 Проверить на соответствие два запрашиваемых значения
