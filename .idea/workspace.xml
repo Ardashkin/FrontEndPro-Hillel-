@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99473c50-ddad-469a-a289-2f46ca1040c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 (24.04.2018)/HomeWork/form-calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 (24.04.2018)/HomeWork/form-calculator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 (24.04.2018)/HomeWork/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 (24.04.2018)/HomeWork/js/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="99473c50-ddad-469a-a289-2f46ca1040c3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -182,12 +178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524579847567</updated>
       <workItem from="1524579849216" duration="14000" />
-      <workItem from="1524579882867" duration="24325000" />
+      <workItem from="1524579882867" duration="24372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24339000" />
+    <option name="totallyTimeSpent" value="24386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
