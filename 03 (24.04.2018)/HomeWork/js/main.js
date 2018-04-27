@@ -55,57 +55,73 @@ function myFunction32(){
  }
 };
 
-function myFunction33(){
+function myFunction33() {
     const SALE_USD = 26.05;
     const SALE_EUR = 31.57;
     const SALE_UAH = 1;
     const BUY_USD = 26.20;
-    const BUY_EUR = 31.57;
+    const BUY_EUR = 32.16;
     const BUY_UAH = 32.16;
 
     var operation = document.getElementsByName("operation");
     var currency = document.getElementsByName("currency");
     var currencyOut = document.getElementsByName("currencyOut");
-    var summ = document.getElementsByName("summ");
+    var summ = document.getElementById("summ").value;
 
     function getRadioValue(nameRadio) {
-        for(var i=0; i < nameRadio.length; i++)
-        {
-            if(nameRadio[i].checked==true)  return nameRadio[i].value;
+        for (var i = 0; i < nameRadio.length; i++) {
+            if (nameRadio[i].checked == true) return nameRadio[i].value;
         }
     };
 
 
-    if (getRadioValue(operation)==="sale") {
+    if (getRadioValue(operation) === "sale") {
 
-       switch (getRadioValue(currency)) {
-            case "UAH":
-            {
+        switch (getRadioValue(currency)) {
+            case "UAH": {
                 switch (getRadioValue(currencyOut)) {
                     case "UAH":
-                                document.getElementById('result').innerHTML = String(summ*SALE_UAH);
-                                break;
-                    case "USD": alert("hi");
+                        document.getElementById('result').innerHTML = String(summ * SALE_UAH);
                         break;
-                    case "EUR": document.getElementById('result').innerHTML = summ*SALE_UEUR;
+                    case "USD":
+                        document.getElementById('result').innerHTML = String(summ / BUY_USD);
                         break;
-                }
-            }
-            case "USD":
-            {
-                switch (getRadioValue(currencyOut) {
-                    case "UAH": document.getElementById('result').innerHTML = summ*SALE_USD;
-                        break;
-                    case "USD": document.getElementById('result').innerHTML = summ*SALE_UAH;
-                        break;
-                    case "EUR": document.getElementById('result').innerHTML = summ*SALE_UEUR;
+                    case "EUR":
+                        document.getElementById('result').innerHTML = String(summ / BUY_EUR);
                         break;
                 }
             }
-                break;
 
+            case "USD": {
+                switch (getRadioValue(currencyOut)) {
+                    case "UAH":
+                        document.getElementById('result').innerHTML = String(summ * SALE_USD);
+                        break;
+                    case "USD":
+                        document.getElementById('result').innerHTML = String(summ / SALE_UAH);
+                        break;
+                    case "EUR":
+                        document.getElementById('result').innerHTML = String(summ / BUY_EUR);
+                        break;
+                }
+            }
+
+            case "EUR": {
+                switch (getRadioValue(currencyOut)) {
+                    case "UAH":
+                        document.getElementById('result').innerHTML = String(summ * SALE_EUR);
+                        break;
+                    case "USD":
+                        document.getElementById('result').innerHTML = String(summ / SALE_USD);
+                        break;
+                    case "EUR":
+                        document.getElementById('result').innerHTML = String(summ * SALE_UAH);
+                        break;
+                }
+            }
         }
 
-    }else{};
+        }else{}
+        ;
 
-};
+    };
