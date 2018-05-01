@@ -47,9 +47,8 @@ function myFunction32(){
     };
 
  if ((agree.checked && notRobot.checked)) {
-     (Age() && Nationality()) ?
-         alert("Welcome to WORK"):
-         alert("your candidacy does not suit us");
+     var res = (Age() && Nationality()) ? "Welcome to WORK" : "your candidacy does not suit us"
+     alert(res);
  } else {
      alert("You don't agree with rules or a Robot");
  }
@@ -62,7 +61,7 @@ function myFunction33() {
     const BUY_USD = 26.20;
     const BUY_EUR = 32.16;
     const BUY_UAH = 32.16;
-
+    var result;
     var operation = document.getElementsByName("operation");
     var currency = document.getElementsByName("currency");
     var currencyOut = document.getElementsByName("currencyOut");
@@ -81,13 +80,13 @@ function myFunction33() {
             case "UAH": {
                 switch (getRadioValue(currencyOut)) {
                     case "UAH":
-                        document.getElementById('result').innerHTML = String(summ * SALE_UAH);
+                        result = summ * SALE_UAH;
                         break;
                     case "USD":
-                        document.getElementById('result').innerHTML = String(summ / BUY_USD);
+                        result = summ / BUY_USD;
                         break;
                     case "EUR":
-                        document.getElementById('result').innerHTML = String(summ / BUY_EUR);
+                        result = summ / BUY_EUR;
                         break;
                 }
             }
@@ -123,5 +122,5 @@ function myFunction33() {
 
         }else{}
         ;
-
+    document.getElementById('result').innerHTML = result;
     };
