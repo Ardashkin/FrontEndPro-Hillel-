@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99473c50-ddad-469a-a289-2f46ca1040c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/ClassWork/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/ClassWork/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/HomeWork/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/HomeWork/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 (24.04.2018)/HomeWork/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 (24.04.2018)/HomeWork/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ClassWork/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,11 +36,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/HomeWork/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
+            <state relative-caret-position="474">
               <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -61,6 +76,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -78,6 +96,8 @@
         <option value="$PROJECT_DIR$/04 (27.04.2018)/ClassWork/js/main.js" />
         <option value="$PROJECT_DIR$/04 (27.04.2018)/HomeWork/index.html" />
         <option value="$PROJECT_DIR$/04 (27.04.2018)/HomeWork/js/main.js" />
+        <option value="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/index.html" />
+        <option value="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js" />
       </list>
     </option>
   </component>
@@ -108,50 +128,32 @@
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="03 (24.04.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="03 (24.04.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
               <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="03 (24.04.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
               <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="03 (24.04.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="03 (24.04.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtraWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
               <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="04 (27.04.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtraWork" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -185,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork" />
       <recent name="$PROJECT_DIR$/04 (27.04.2018)/HomeWork" />
       <recent name="$PROJECT_DIR$/03 (24.04.2018)/HomeWork" />
     </key>
@@ -212,12 +215,13 @@
       <option name="presentableId" value="Default" />
       <updated>1524579847567</updated>
       <workItem from="1524579849216" duration="14000" />
-      <workItem from="1524579882867" duration="36911000" />
+      <workItem from="1524579882867" duration="37712000" />
+      <workItem from="1525364952907" duration="3474000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36925000" />
+    <option name="totallyTimeSpent" value="41200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
@@ -227,12 +231,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -249,15 +253,33 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ClassWork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/HomeWork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="80" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/HomeWork/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02 (20.04.2018)/HomeWork/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03 (24.04.2018)/HomeWork/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/03 (24.04.2018)/ClassWork/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -293,9 +315,6 @@
           <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 (17.04.2018)/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/02 (20.04.2018)/HomeWork/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -349,8 +368,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/HomeWork/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
+        <state relative-caret-position="474">
           <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
