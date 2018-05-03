@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99473c50-ddad-469a-a289-2f46ca1040c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,8 +55,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="105">
+              <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -216,12 +214,12 @@
       <updated>1524579847567</updated>
       <workItem from="1524579849216" duration="14000" />
       <workItem from="1524579882867" duration="37712000" />
-      <workItem from="1525364952907" duration="3474000" />
+      <workItem from="1525364952907" duration="3617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41200000" />
+    <option name="totallyTimeSpent" value="41343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
@@ -382,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
         </state>
       </provider>
     </entry>
