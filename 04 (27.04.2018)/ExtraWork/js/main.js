@@ -2,7 +2,7 @@ var numberArray = [1, 20, 3, -7, 12, 15, -35];
 var max, min;
 
 numberArray.sort(function (a, b)
-    {return a - b;}
+                {return a - b;}
                 );
 console.log(" Max = " +numberArray[numberArray.length-1] + " PreMax = " +numberArray[numberArray.length-2] +
             " Summ = " +(numberArray[numberArray.length-1] + numberArray[numberArray.length-2]));
