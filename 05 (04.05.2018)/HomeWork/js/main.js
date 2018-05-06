@@ -10,9 +10,9 @@ function GameUserRandom() {
     return alert(((userNumber !== null) && (num !== userNumber)) ? "You not guessed" : "You guessed");
 };
 
-function UserContinue() {
+function RunGuess() {
     do GameUserRandom()
-    while (confirm("Continue ?") !== false);
+    while (confirm("Continue ?"));
 };
 
 function CheckArray ()
