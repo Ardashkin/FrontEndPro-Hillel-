@@ -23,7 +23,9 @@ function CheckArray ()
         arrNAN = [];
 
     for (let i = 0; i < arrUser.length; i++) {
-        isNaN(Number(arrUser[i])) ?  arrNAN.push(arrUser[i]): arrNumber.push( Number(arrUser[i]));
+        if (isNaN(Number(arrUser[i])) == true) {
+            arrNAN.push(arrUser[i]);
+        } else arrNumber.push(Number(arrUser[i]));
     };
     console.log("Number "+arrNumber + "\n" +
                 "NAN " +arrNAN);
