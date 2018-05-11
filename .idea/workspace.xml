@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99473c50-ddad-469a-a289-2f46ca1040c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/ClassWork/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/ClassWork/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/hourspassed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 (04.05.2018)/HomeWork/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 (04.05.2018)/HomeWork/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 (04.05.2018)/HomeWork/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/05 (04.05.2018)/HomeWork/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html" beforeDir="false" afterPath="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06 (08.05.2018)/HomeWork/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +85,8 @@
         <option value="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/css/main.css" />
         <option value="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/index.html" />
         <option value="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/hourspassed.html" />
-        <option value="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html" />
         <option value="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/js/main.js" />
+        <option value="$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html" />
       </list>
     </option>
   </component>
@@ -115,25 +119,7 @@
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="05 (04.05.2018)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
               <item name="06 (08.05.2018)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="06 (08.05.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="06 (08.05.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
@@ -232,7 +218,7 @@
       <workItem from="1524579882867" duration="37712000" />
       <workItem from="1525364952907" duration="5043000" />
       <workItem from="1525443399044" duration="78000" />
-      <workItem from="1525444079248" duration="42638000" />
+      <workItem from="1525444079248" duration="45195000" />
     </task>
     <task id="LOCAL-00001" summary="06.05.2018 22:12">
       <created>1525633961874</created>
@@ -248,11 +234,25 @@
       <option name="project" value="LOCAL" />
       <updated>1525636098182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10.05.2018 21:04">
+      <created>1525975459576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525975459576</updated>
+    </task>
+    <task id="LOCAL-00004" summary="10.05.2018 21:40">
+      <created>1525977654471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525977654471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85485000" />
+    <option name="totallyTimeSpent" value="88042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,13 +265,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1465821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1465821" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.22443181" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.22443181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -323,7 +324,9 @@
     <MESSAGE value="111" />
     <MESSAGE value="06.05.2018 22:12" />
     <MESSAGE value="06.05.2018 22:48" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.05.2018 22:48" />
+    <MESSAGE value="10.05.2018 21:04" />
+    <MESSAGE value="10.05.2018 21:40" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.05.2018 21:40" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/04 (27.04.2018)/ExtraWork/js/main.js">
@@ -562,16 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06 (08.05.2018)/ClassWork/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1018">
@@ -584,8 +577,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06 (08.05.2018)/HomeWork/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 (08.05.2018)/HomeWork/time.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
