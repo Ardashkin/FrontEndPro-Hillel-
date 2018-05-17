@@ -13,7 +13,7 @@ function Clock(object) {
         hours = clock.getHours(),
         minute = clock.getMinutes(),
         second = clock.getSeconds();
-    document.getElementById('time').value = String(hours+":"+minute+":"+second);
+    document.getElementById('time').value = hours+":"+minute+":"+second;
 
     if (object.time <= clock)
         console.log(object.title);
