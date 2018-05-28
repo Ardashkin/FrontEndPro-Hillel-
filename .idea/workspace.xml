@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99473c50-ddad-469a-a289-2f46ca1040c3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js/9.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,29 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8.2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js">
+      <file leaf-file-name="9.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js/9.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            <state relative-caret-position="275">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/index.html">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/ClassWork/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8.1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="209">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -117,8 +108,11 @@
         <option value="$PROJECT_DIR$/09 (18.05.2018)/ClassWork/index.html" />
         <option value="$PROJECT_DIR$/09 (18.05.2018)/ClassWork/js/main.js" />
         <option value="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.1.js" />
-        <option value="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js" />
         <option value="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/index.html" />
+        <option value="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js" />
+        <option value="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/index.html" />
+        <option value="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js/8.2.js" />
+        <option value="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js/9.js" />
       </list>
     </option>
   </component>
@@ -131,7 +125,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -151,55 +145,32 @@
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="07 (11.05.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="07 (11.05.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
               <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="07 (11.05.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
               <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="08 (15.05.2018)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="08 (15.05.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
               <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="08 (15.05.2018)" type="462c0819:PsiDirectoryNode" />
+              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
               <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndPro (Hillel)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndPro (Hillel)" type="462c0819:PsiDirectoryNode" />
-              <item name="09 (18.05.2018)" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -222,15 +193,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08 (15.05.2018)/ClassWork" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/08 (15.05.2018)" />
       <recent name="$PROJECT_DIR$/09 (18.05.2018)" />
+      <recent name="$PROJECT_DIR$/08 (15.05.2018)" />
       <recent name="$PROJECT_DIR$/08 (15.05.2018)/ClassWork" />
       <recent name="$PROJECT_DIR$/07 (11.05.2018)/HomeWork" />
       <recent name="$PROJECT_DIR$/06 (08.05.2018)/HomeWork" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/08 (15.05.2018)/ClassWork" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,26 +216,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.8.2.js">
-    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndPro (Hillel)/08 (15.05.2018)/HomeWork/index.html" />
+  <component name="RunManager" selected="Node.js.9.js">
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndPro (Hillel)/09 (18.05.2018)/HomeWork/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndPro (Hillel)/09 (18.05.2018)/ClassWork/index.html" />
-    <configuration name="7.1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/07 (11.05.2018)/HomeWork/js/7.1.js" working-dir="$PROJECT_DIR$/07 (11.05.2018)/HomeWork/js" />
-    <configuration name="8.1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="8.1.js" working-dir="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js" />
+    <configuration name="8.2.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="8.2.js" working-dir="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js" />
     <configuration name="8.2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="8.2.js" working-dir="$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js" />
+    <configuration name="9.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="9.js" working-dir="$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js" />
     <list>
-      <item itemvalue="Node.js.7.1.js" />
-      <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="Node.js.8.1.js" />
       <item itemvalue="Node.js.8.2.js" />
-      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="Node.js.8.2.js (1)" />
+      <item itemvalue="Node.js.9.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.8.2.js" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="Node.js.8.1.js" />
-        <item itemvalue="Node.js.7.1.js" />
+        <item itemvalue="Node.js.9.js" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.8.2.js (1)" />
+        <item itemvalue="Node.js.8.2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +257,8 @@
       <workItem from="1526121101679" duration="154000" />
       <workItem from="1526222887397" duration="13783000" />
       <workItem from="1526497536933" duration="11644000" />
-      <workItem from="1526660935742" duration="18514000" />
+      <workItem from="1526660935742" duration="19431000" />
+      <workItem from="1527272585382" duration="13495000" />
     </task>
     <task id="LOCAL-00001" summary="06.05.2018 22:12">
       <created>1525633961874</created>
@@ -337,11 +309,25 @@
       <option name="project" value="LOCAL" />
       <updated>1526929324980</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="22.05.2018 21:38">
+      <created>1527014334562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527014334562</updated>
+    </task>
+    <task id="LOCAL-00009" summary="22.05.2018 22:25">
+      <created>1527017139082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527017139082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141173000" />
+    <option name="totallyTimeSpent" value="155585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,14 +340,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1465821" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3025568" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.22443181" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.22443181" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -374,6 +360,7 @@
       <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3025568" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +404,9 @@
     <MESSAGE value="11.05.2018 09:57" />
     <MESSAGE value="17.05.2018 17:23" />
     <MESSAGE value="21.05.2018 22:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.05.2018 22:01" />
+    <MESSAGE value="22.05.2018 21:38" />
+    <MESSAGE value="22.05.2018 22:25" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.05.2018 22:25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -425,6 +414,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03 (24.04.2018)/HomeWork/form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -593,9 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,27 +638,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/ClassWork/js/main2.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/ClassWork/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/7.1.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/07 (11.05.2018)/HomeWork/7.1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -674,21 +655,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/7.2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/some.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/7.2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/7.2.js" />
     <entry file="file://$PROJECT_DIR$/07 (11.05.2018)/HomeWork/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -707,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,19 +694,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/ClassWork/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js/8.2.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.1.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -755,6 +708,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/HomeWork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 (15.05.2018)/HomeWork/js/8.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/ClassWork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/ClassWork/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 (18.05.2018)/HomeWork/js/9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
