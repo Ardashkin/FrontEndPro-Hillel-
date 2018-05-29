@@ -6,13 +6,11 @@ function Resource (health, distance, damage) {
     this.damage = damage;
 }
     Resource.prototype.isReadyToMove = function () {
-        if (this.distance > 0) return true;
-        else return false;
+        return (this.distance > 0);
     };
 
     Resource.prototype.isReadyToFight = function () {
-        if (this.damage > 0) return true;
-        else return false;
+        return (this.damage > 0);
     };
 
     Resource.prototype.attack = function(resource) {
@@ -40,14 +38,14 @@ var Archer1 = new Archer(100, 5, 5);
 var Warrior1 = new Warrior(100, 20, 10);
 
 console.log(Archer1);
-//console.log(Archer1.isReadyToMove());
+console.log(Archer1.isReadyToMove());
 //console.log(Warrior1.isReadyToFight());
 
-var Archer2 = Archer1.clone();
-var Warrior2 = Warrior1.clone();
-console.log(Archer2);
-console.log(Warrior2);
+//var Archer2 = Archer1.clone();
+//var Warrior2 = Warrior1.clone();
+//console.log(Archer2);
+//console.log(Warrior2);
 //console.log(Warrior1.attack(Archer1));
 
-var Archer3 = new Archer(100, 5, 5);
-console.log(Warrior2);
+//var Archer3 = new Archer(100, 5, 5);
+//console.log(Warrior2);
