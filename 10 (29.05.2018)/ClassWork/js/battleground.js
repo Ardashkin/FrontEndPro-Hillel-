@@ -6,10 +6,12 @@ var archer1 = new Archer(500, 450, 30),
     //mage1 = new Mage(),
     //knight1 = new Knight();
 
-warrior1.attackedBy(archer2);
+console.log(archer1);
 
-console.log('HEALTH', warrior1.health);
+//warrior1.attackedBy(archer2);
 
-warrior1.restore();
+//console.log('HEALTH', warrior1.health);
 
-console.log('HEALTH', warrior1.health);
+//warrior1.restore();
+
+//console.log('HEALTH', warrior1.health);
